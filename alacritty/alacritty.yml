@@ -6,12 +6,13 @@ window:
   dynamic_padding: false
   dynamic_title: true
   opacity: 1
-  startup_mode: Maximized
+  startup_mode: Windowed
+  decorations: full
   option_as_alt: 'OnlyLeft'
 scrolling:
   history: 12000
 font:
-  size: 15
+  size: 12
   bold:
     family: JetBrains Mono
     style: Bold
